@@ -1,2 +1,0 @@
-# HNG-
-HNG GIT Task
